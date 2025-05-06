@@ -12,4 +12,4 @@ A proposta era criar criar um sistema inteligente de controle térmico para estu
 
 # Simulação:
 
-Acesse a simulação no Tinkercad: 
+Acesse a simulação no Tinkercad: (Em breve)
